@@ -11,8 +11,8 @@ function Projects() {
             name: "Portfolio App",
             description:" Developed personal portfolio application which contains about, projects, contact information ",
             technologies: ["React JS", "Tailwind CSS","JavaScript", "HTML"],
-            appLink: "",
-            codeLink: "",
+            appLink: "https://saibalaji118.github.io/personal-portfolio",
+            codeLink: "https://github.com/saibalaji118/personal-portfolio",
         },
         {
             image: ecommerce,
