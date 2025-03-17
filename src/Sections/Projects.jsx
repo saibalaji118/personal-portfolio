@@ -9,7 +9,7 @@ function Projects() {
         {
             image: portfolio,
             name: "Portfolio App",
-            description:" Developed personal portfolio application which contains about, projects, contact information ",
+            description:" Developed personal portfolio application which contains Home, About, Projects and Contact information ",
             technologies: ["React JS", "Tailwind CSS","JavaScript", "HTML"],
             appLink: "https://saibalaji118.github.io/personal-portfolio",
             codeLink: "https://github.com/saibalaji118/personal-portfolio",
@@ -27,7 +27,7 @@ function Projects() {
             name: "Todo App",
             description:"Developed a dynamic website that enables the user to create, edit, track the status of each todo item, Implemented todo CRUD operations by using JavaScript event listeners and used arrays, objects and their methods",
             technologies: ["JavaScript", "CSS", "HTML"],
-            appLink: "https://todosaibalaji.ccbp.tech/",
+            appLink: "https://saibalaji118.github.io/to-do-app/",
             codeLink: "https://github.com/saibalaji118/todolist-website",
         },
         {
@@ -35,7 +35,7 @@ function Projects() {
             name: "Food Munch App",
             description:"Developed a responsive and user-centric website for Food Store where users can see a list of food items, detailed information about a food item, offers and payment options",
             technologies: ["Bootstrap", "CSS", "HTML"],
-            appLink: "https://fmsaibalaji.ccbp.tech/",
+            appLink: "https://saibalaji118.github.io/food-munch-app/",
             codeLink: "https://github.com/saibalaji118/food-munch-website",
         }
     ]);
